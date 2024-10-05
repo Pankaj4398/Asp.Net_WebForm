@@ -60,7 +60,33 @@ This repository contains an ASP.NET Web Forms application built for task managem
 
 ## Screenshots
 
-Include some screenshots of the application if possible, to show how the pages look (e.g., Home, Support, Contact).
+Visual representations of the application's primary pages are provided below:
+
+1. **Home Page**: The main dashboard displaying.
+
+   ![Home Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/1.png)
+
+2. **Support Page**: A form allowing users to send inquiries or feedback directly to the support team.
+
+   ![Support Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/7.png)
+   ![Support Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/8.png)
+
+3. **Contact Page**: Contact the support.
+
+   ![Contact Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/3.png)
+
+4. **Newsletter Signup Page**: A dedicated section to signup for newsletter.
+
+   ![Newsletter Signup Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/4.png)
+   ![Newsletter Signup Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/5.png)
+   ![Newsletter Signup Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/6.png)
+
+6. **About Page**: About the product.
+
+   ![About Page](https://github.com/Pankaj4398/Asp.Net_WebForm/blob/master/WebFormsApplication/Screenshots/2.png)
+
+
+
 
 ## Contributing
 
