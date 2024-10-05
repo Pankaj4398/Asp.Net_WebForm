@@ -2,6 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    min-height: 100vh;
 }
 
 /* Wrapping element */
@@ -9,6 +10,7 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    min-height: 80vh;
 }
 
 /* Set widths on the form inputs since otherwise they're 100% wide */
@@ -28,4 +30,15 @@ textarea {
     .body-content {
         padding: 0;
     }
+}
+
+.footer-main-container {
+    display: flex;
+    background-color: #f8f8f8;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-content{
+    padding: 10px;
 }

@@ -13,7 +13,7 @@
     </asp:PlaceHolder>
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
-    <link href="~/Images/taskflow.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="~/Images/organization.png" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
 </head>
 <body>
@@ -61,18 +61,19 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
-            <footer style="display: flex; background-color: #f8f8f8; justify-content: space-between; align-items: center;">
-                <p>&copy; <%: DateTime.Now.Year %> - TaskFlow @PankajKr</p>
-                <div style="padding: 10px;">
-                    <a href="https://www.linkedin.com/in/pankaj-kumar-732956174/" target="_blank" style="margin-right: 15px;">
-                        <i class="fab fa-linkedin fa-lg"></i>
-                    </a>
-                    <a href="https://github.com/Pankaj4398" target="_blank" style="margin-right: 15px;">
-                        <i class="fab fa-github fa-lg"></i>
-                    </a>
-                </div>
-            </footer>
         </div>
+
+        <footer class="container footer-main-container">
+            <p class="footer-content">&copy; <%: DateTime.Now.Year %> - TaskFlow @PankajKr</p>
+            <div class="footer-content">
+                <a href="https://www.linkedin.com/in/pankaj-kumar-732956174/" target="_blank" style="margin-right: 15px;">
+                    <i class="fab fa-linkedin fa-lg"></i>
+                </a>
+                <a href="https://github.com/Pankaj4398" target="_blank" style="margin-right: 15px;">
+                    <i class="fab fa-github fa-lg"></i>
+                </a>
+            </div>
+        </footer>
 
     </form>
 </body>
