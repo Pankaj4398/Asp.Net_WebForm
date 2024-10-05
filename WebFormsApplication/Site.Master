@@ -63,13 +63,13 @@
             <hr />
         </div>
 
-        <footer class="container footer-main-container">
+        <footer class="container footer-main-container dark-greybackground">
             <p class="footer-content">&copy; <%: DateTime.Now.Year %> - TaskFlow @PankajKr</p>
             <div class="footer-content">
-                <a href="https://www.linkedin.com/in/pankaj-kumar-732956174/" target="_blank" style="margin-right: 15px;">
+                <a href="https://www.linkedin.com/in/pankaj-kumar-732956174/" target="_blank" class="icon-style">
                     <i class="fab fa-linkedin fa-lg"></i>
                 </a>
-                <a href="https://github.com/Pankaj4398" target="_blank" style="margin-right: 15px;">
+                <a href="https://github.com/Pankaj4398" target="_blank" class="icon-style">
                     <i class="fab fa-github fa-lg"></i>
                 </a>
             </div>

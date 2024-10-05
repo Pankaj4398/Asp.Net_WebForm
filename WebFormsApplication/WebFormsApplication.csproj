@@ -128,6 +128,14 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="NewsletterSignup.aspx" />
+    <Content Include="Screenshots\1.png" />
+    <Content Include="Screenshots\2.png" />
+    <Content Include="Screenshots\3.png" />
+    <Content Include="Screenshots\4.png" />
+    <Content Include="Screenshots\5.png" />
+    <Content Include="Screenshots\6.png" />
+    <Content Include="Screenshots\7.png" />
+    <Content Include="Screenshots\8.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -164,8 +172,8 @@
     </Content>
     <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
-	<Content Include="Images\organization.png" />
-	<Content Include="Images\taskflow.ico" />
+    <Content Include="Images\organization.png" />
+    <Content Include="Images\taskflow.ico" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />

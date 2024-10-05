@@ -11,7 +11,7 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">support@taskflow.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">marketing@taskflow.com</a>
+        <strong>Support:</strong>   <a href="mailto:Support@example.com" class="icon-style">support@taskflow.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com" class="icon-style">marketing@taskflow.com</a>
     </address>
 </asp:Content>

@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
+    <div class="jumbotron dark-greybackground">
         <h1>TaskFlow</h1>
         <p class="lead">A Smart Task Management Tool built on Asp.Net Web Forms</p>
         <p><a href="https://github.com/Pankaj4398?tab=following" class="btn btn-primary btn-lg">Project source &raquo;</a></p>

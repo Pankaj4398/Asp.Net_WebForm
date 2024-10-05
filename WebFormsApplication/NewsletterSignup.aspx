@@ -20,8 +20,9 @@
         </div>
         <asp:Label  ID="lblEmail" runat="server" Text="Email"></asp:Label>
         &nbsp;
-        <asp:TextBox ID="txtEmail" runat="server" ViewStateMode="Disabled"></asp:TextBox>
-        <br />
+        <asp:TextBox ID="txtEmail" runat="server" ViewStateMode="Disabled" Width="140px"></asp:TextBox>
+        <asp:RequiredFieldValidator ID="valEmail" runat="server" ControlToValidate="txtEmail" ErrorMessage="RequiredFieldValidator" ForeColor="Red">Email is required.</asp:RequiredFieldValidator>
+         <br />
         <br />
         <asp:Button  ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
     </form>
